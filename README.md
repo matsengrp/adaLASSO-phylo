@@ -3,6 +3,6 @@ Code for paper 'NON-BIFURCATING PHYLOGENETIC TREE INFERENCE VIA THE ADAPTIVE LAS
 
 # prerequisite
 packages needed: phyloinfer, biopython, ete3. To install, simply run
-'''
+```
 pip install phyloinfer
-'''
+```
