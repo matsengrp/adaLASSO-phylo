@@ -1,0 +1,5 @@
+name: adalasso
+channels:
+  - anaconda
+dependencies:
+  - matplotlib
